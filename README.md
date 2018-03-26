@@ -1,21 +1,10 @@
-# tpls
 
-> A Vue.js project
 
-## Build Setup
+   基于vue-cli 使用mint-ui 的loadmore加载功能
 
-``` bash
-# install dependencies
-npm install
-
-# serve with hot reload at localhost:8080
-npm run dev
-
-# build for production with minification
-npm run build
-
-# build for production and view the bundle analyzer report
-npm run build --report
-```
-
-For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+   最近在做一个移动端上滑加载，下滑刷新的功能，找了很多UI库，只有mint-ui这个功能比较好，但是官方文档写的也没谁了。
+   
+   昨天在网上看到的一位大神写的，我看了后删除了一些东西，稍加改进，直接用就好。
+   
+   贴出原代码出处  https://www.cnblogs.com/yuri2016/p/7045709.html
+   
